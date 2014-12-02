@@ -1,0 +1,7 @@
+Repositoria de codigo Github (master)
+1. Multiples versiones del mismo código
+2. Cambios Detal base de datos atomica del codigo
+3. Historial de cada archivo
+4. Multiples personas sobre el mismo archivo
+5. Culpa al culpable
+6. Ramas (branches)
