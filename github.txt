@@ -5,3 +5,5 @@ Repositoria de codigo Github (master)
 4. Multiples personas sobre el mismo archivo
 5. Culpa al culpable
 6. Ramas (branches)
+
+Por Jan Pierre Sánchez
